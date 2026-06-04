@@ -1,0 +1,88 @@
+# Validation Report - floor-plan-renovation-ideas
+
+Generated: 2026-06-04T11:35:29.959793
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Floor Plan Renovation Ideas
+- ✓ Article word count OK: Beginner Floor Plan Renovation Ideas: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Floor Plan Renovation Ideas
+- ✓ Article word count OK: Beginner Floor Plan Renovation Ideas Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Floor Plan Renovation Ideas
+- ✓ Article word count OK: Beginner Floor Plan Renovation Ideas in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Floor Plan Renovation Ideas
+- ✓ Article word count OK: Common Mistakes in Beginner Floor Plan Renovation Ideas
+- ✓ Article word count OK: Beginner Floor Plan Renovation Ideas for Beginners
+- ✓ Article word count OK: Advanced Beginner Floor Plan Renovation Ideas Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Floor Plan Renovation Ideas
+- ✓ Article word count OK: Advanced Floor Plan Renovation Ideas: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Floor Plan Renovation Ideas
+- ✓ Article word count OK: Advanced Floor Plan Renovation Ideas Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Floor Plan Renovation Ideas
+- ✓ Article word count OK: Advanced Floor Plan Renovation Ideas in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Floor Plan Renovation Ideas
+- ✓ Article word count OK: Common Mistakes in Advanced Floor Plan Renovation Ideas
+- ✓ Article word count OK: Advanced Floor Plan Renovation Ideas for Beginners
+- ✓ Article word count OK: Advanced Advanced Floor Plan Renovation Ideas Techniques
+- ✓ Article word count OK: The Ultimate Guide to Floor Plan Renovation Ideas Tips
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Floor Plan Renovation Ideas Tips
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Floor Plan Renovation Ideas Tips
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Floor Plan Renovation Ideas Tips
+- ✓ Article word count OK: Common Mistakes in Floor Plan Renovation Ideas Tips
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tips for Beginners
+- ✓ Article word count OK: Advanced Floor Plan Renovation Ideas Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Floor Plan Renovation Ideas History
+- ✓ Article word count OK: Floor Plan Renovation Ideas History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Floor Plan Renovation Ideas History
+- ✓ Article word count OK: Floor Plan Renovation Ideas History Tips and Best Practices
+- ✓ Article word count OK: The History of Floor Plan Renovation Ideas History
+- ✓ Article word count OK: Floor Plan Renovation Ideas History in 2026: Current Trends
+- ✓ Article word count OK: Future of Floor Plan Renovation Ideas History
+- ✓ Article word count OK: Common Mistakes in Floor Plan Renovation Ideas History
+- ✓ Article word count OK: Floor Plan Renovation Ideas History for Beginners
+- ✓ Article word count OK: Advanced Floor Plan Renovation Ideas History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Floor Plan Renovation Ideas
+- ✓ Article word count OK: Trending Floor Plan Renovation Ideas: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Floor Plan Renovation Ideas
+- ✓ Article word count OK: Trending Floor Plan Renovation Ideas Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Floor Plan Renovation Ideas
+- ✓ Article word count OK: Trending Floor Plan Renovation Ideas in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Floor Plan Renovation Ideas
+- ✓ Article word count OK: Common Mistakes in Trending Floor Plan Renovation Ideas
+- ✓ Article word count OK: Trending Floor Plan Renovation Ideas for Beginners
+- ✓ Article word count OK: Advanced Trending Floor Plan Renovation Ideas Techniques
+- ✓ Article word count OK: The Ultimate Guide to Floor Plan Renovation Ideas Tutorials
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Floor Plan Renovation Ideas Tutorials
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Floor Plan Renovation Ideas Tutorials
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Floor Plan Renovation Ideas Tutorials
+- ✓ Article word count OK: Common Mistakes in Floor Plan Renovation Ideas Tutorials
+- ✓ Article word count OK: Floor Plan Renovation Ideas Tutorials for Beginners
+- ✓ Article word count OK: Advanced Floor Plan Renovation Ideas Tutorials Techniques
+- ✓ Ad configuration validated

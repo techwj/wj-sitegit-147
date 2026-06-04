@@ -1,0 +1,59 @@
+{
+  "siteId": "floor-plan-renovation-ideas",
+  "generatedAt": "2026-06-04T11:35:29.960035",
+  "categories": [
+    "beginner-floor-plan-renovation-ideas",
+    "advanced-floor-plan-renovation-ideas",
+    "tips-floor-plan-renovation-ideas",
+    "history-floor-plan-renovation-ideas",
+    "trending-floor-plan-renovation-ideas",
+    "tutorials-floor-plan-renovation-ideas"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-floor-plan-renovation-ideas",
+      "category_name": "Beginner Floor Plan Renovation Ideas"
+    },
+    {
+      "category_slug": "advanced-floor-plan-renovation-ideas",
+      "category_name": "Advanced Floor Plan Renovation Ideas"
+    },
+    {
+      "category_slug": "tips-floor-plan-renovation-ideas",
+      "category_name": "Floor Plan Renovation Ideas Tips"
+    },
+    {
+      "category_slug": "history-floor-plan-renovation-ideas",
+      "category_name": "Floor Plan Renovation Ideas History"
+    },
+    {
+      "category_slug": "trending-floor-plan-renovation-ideas",
+      "category_name": "Trending Floor Plan Renovation Ideas"
+    },
+    {
+      "category_slug": "tutorials-floor-plan-renovation-ideas",
+      "category_name": "Floor Plan Renovation Ideas Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "floor-plan-renovation-ideas",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Floor Plan Renovation Ideas Central",
+    "articles_per_row": 1
+  }
+}
